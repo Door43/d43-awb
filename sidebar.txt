@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[awb:home|Door43 (awb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-awb|d43-awb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-awb/archive/master.zip|d43-awb.zip]]
+
+**Recent Changes**
+{{changes>ns = awb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/awb|Ethnologue data]]
+
